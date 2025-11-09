@@ -3,7 +3,7 @@
 </p>
 
 **⚠ This is a fork of the original lpp-3ds, with preserved and reformatted documentation, as the original project is no longer actively maintained.**
-The latest build I know of is from 28th Feb 2016, and the docs mention last being updated on the 15th July 2016, at 11:25 GMT +1:00. There are nightly builds from after that (as mentioned in the docs), yet they use Linkvertise links, which I always find to never work ever. I'm planning to contact Rinnegatamante for older nightly builds. Supposedly we have newer builds, but again: Linkvertise.
+The latest build I know of is from 28th Feb 2016, and the docs mention last being updated on the 15th July 2016, at 11:25 GMT +1:00. There are nightly builds from after that (as mentioned in the docs), yet they use Linkvertise links, which I always find to never work ever. Rinnegatamante has no nightly builds.
 
 **--- The original README.md continues from here. ---**
 
